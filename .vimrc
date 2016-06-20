@@ -1,6 +1,6 @@
 set nocompatible              " be iMproved, required
 filetype off                  " required
-
+set clipboard=unnamed
 set mouse=n
 set ttymouse=xterm2
 set clipboard=unnamed
